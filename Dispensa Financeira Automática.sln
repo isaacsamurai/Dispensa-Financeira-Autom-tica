@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispensa Financeira Automática", "Dispensa Financeira Automática.csproj", "{D41F8995-750D-4B96-B890-20E17007FA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41F8995-750D-4B96-B890-20E17007FA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41F8995-750D-4B96-B890-20E17007FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41F8995-750D-4B96-B890-20E17007FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41F8995-750D-4B96-B890-20E17007FA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145F324D-F52F-4376-9021-1AD8180EE006}
+	EndGlobalSection
+EndGlobal
