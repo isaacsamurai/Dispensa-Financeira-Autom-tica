@@ -1,4 +1,4 @@
-**Projeto Dispensa Financeira Automática**
+# Projeto Dispensa Financeira Automática
 
 Desenvolvi este projeto, com o intuito de otimizar minhas tarefas do dia a dia de onde trabalho atualmente.
 
